@@ -1,8 +1,6 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tax Calculator
 
-Currently, two official plugins are available:
+## Overview The Tax Calculator is a web application designed to help users calculate their tax liabilities based on their income, deductions, and other relevant information. This application provides a user-friendly interface for entering data and generates detailed tax reports.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ## Features- **Income Tax Calculation**: Calculate federal and state income taxes. - **Deductions and Credits**: Include various deductions and tax credits in the calculation. - **Tax Reports**: Generate detailed tax reports and summaries. - **User Authentication**: Secure login and registration for users. - **Responsive Design**: Optimized for both desktop and mobile devices.
